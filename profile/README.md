@@ -2,4 +2,4 @@
 
 I am a student studying math and formalization in Lean. While learning how to formalize math, I have also become interested in programming. My research interests are AI for math, commutative algebra, and algebraic geometry. 
 
-[rylandgrossmath.com](https://rylandgrossmath.com) · rygrossmath@gmail.com
+[rylandgross.com](https://rylandgross.com) · rygrossmath@gmail.com
